@@ -1,4 +1,4 @@
-# CJC102-5th 實作專案
+# CJC102 課堂操作
 
 ## 🚀 實作目標：GitHub Actions 自動化部署至 AWS
 本專案透過 CI/CD 流水線架構，實現了地端代碼（Local Code）變更後，自動觸發 GitHub Actions 進行測試並部署至 AWS 雲端環境。
